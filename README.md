@@ -24,7 +24,7 @@ php ./theme-creator.php [name] [out_dir|out_file] [-a author] [-u url] [-v versi
     url      - Link to the website of the theme's author, default is https://weblegko.ru/.
     version  - The version, default is 1.0.
 ```
-![Terminal](./docs/01-terminal.png)
+![Terminal](./docs/1-terminal.png)
 
 2. Open Admin area and go to Extensions >> Installer and find a created theme recently.
 ![Extensions Installer](./docs/02-extensions-installer.png)
